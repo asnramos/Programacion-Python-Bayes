@@ -49,3 +49,4 @@ Temario Detallado de Python:
         Visualización de datos con MATPLOTLIB, SEABORN, PLOTLY, ALTAIR. 
 
 Este temario es común en cursos introductorios y profesionales, siendo la documentación oficial de Python el recurso definitivo para su estudio.
+Desarrollado por: [https://bayesplurinacional.org](https://bayesplurinacional.org/es/index.html)
