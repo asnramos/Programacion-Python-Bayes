@@ -1,6 +1,6 @@
 # Programacion-Python-Bayes
 Taller de Programacion en Python con Perfil Bayesiano
-* Usaremos la siguiente infraestrcutura para programar remotamente en Python con todas sus librerias, tambien en R:
+* Usaremos la siguiente infraestructura en la web para programar remotamente en Python y R con todas sus librerias respectivamente :
     - [https://jupyter.org/try-jupyter](https://jupyter.org/try-jupyter)
 
 Temario Detallado de Python:
